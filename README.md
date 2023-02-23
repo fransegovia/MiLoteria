@@ -1,7 +1,7 @@
 # MiLoteria
 Guarda todos los números a los que juegas a la lotería, añade información del dinero que juegas a cada número o si lo compartes con alguien.
 # Descarga
-La aplicación está disponible en la App Store para su descarga
+La aplicación está disponible en el App Store para su descarga
 <!-- This content will not appear in the rendered Markdown -->
 [![Download_on_the_App_Store_Badge_ES_RGB_blk_100217](https://user-images.githubusercontent.com/124678480/220986419-e4d85830-56de-4048-af9d-287b4d59d9d0.svg)](https://apps.apple.com/us/app/mi-loteria/id1443661382)
 # Características
