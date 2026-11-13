@@ -17,9 +17,9 @@ Nunca has tenido tanto control de lo que juegas en el sorteo de la lotería!!!
 La aplicación es compatible con cualquier dispositivo iOS o iPadOS a partir de la versión 16, también puede ser instalado en macOS con M1 o superior.
 
 # Política de Privacidad
-MiLoteria no recoge ninguna información personal ni de ningún tipo, toda la información de las loterías se guarda localmente en el dispositivo del usuario.
+MiLoteria no recoge ninguna información personal ni de ningún tipo, toda la información de las loterías se guarda localmente en el dispositivo del usuario y en la nube iCloud personal y privada del mismo.
 
-MiLoteria does not collect any personal or other type of information; all lottery-related information is stored locally on the user's device.
+My Lottery Tickets does not collect any personal or other types of information; all lottery-related data is stored locally on the user's device and in the user's own private, personal iCloud.
 
 # Pantallazos
 <img src="https://user-images.githubusercontent.com/124678480/220031958-666980fc-9a4d-4a93-b3ba-5f116bf223b6.png" width=30% height=30%>  <img src="https://user-images.githubusercontent.com/124678480/220031992-aaa43707-7b58-417e-907e-18ca2c810f7d.png" width=30% height=30%>  <img src= "https://user-images.githubusercontent.com/124678480/220032006-17658d57-7fc1-4b0b-826b-b5dc445d1388.png" width=30% height=30%>
