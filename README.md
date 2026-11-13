@@ -18,6 +18,7 @@ La aplicación es compatible con cualquier dispositivo iOS o iPadOS a partir de 
 
 # Política de Privacidad
 MiLoteria no recoge ninguna información personal ni de ningún tipo, toda la información de las loterías se guarda localmente en el dispositivo del usuario.
+
 MiLoteria does not collect any personal or other type of information; all lottery-related information is stored locally on the user's device.
 
 # Pantallazos
